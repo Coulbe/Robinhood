@@ -51,6 +51,13 @@ function Stats() {
 			'ARKX',
 			'ENPH',
 			'PLTR',
+			'ARKF',
+			'ARKQ',
+			'ARKG',
+			'ARKW',
+			'SPCE',
+			'QQQ',
+			'VOO',
 		];
 		let promises = [];
 		getMyStocks();

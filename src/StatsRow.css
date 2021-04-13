@@ -36,5 +36,17 @@
 }
 
 .row__percentage {
-	color: #5ac53b;
+	color: #3dc803;
+}
+
+.row__percentage__negative {
+	color: #f35a87;
+}
+
+.row__chart.negative {
+	filter: hue-rotate(240deg) saturate(2);
+}
+
+.row__chart.positive {
+	filter: saturate(2);
 }
