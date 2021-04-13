@@ -41,6 +41,7 @@
 .header__menuItems {
 	margin-left: 48px;
 	margin-right: 48px;
+	white-space: nowrap;
 }
 
 .header__menuItems > a {
