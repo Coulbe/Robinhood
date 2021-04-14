@@ -2,7 +2,7 @@
 	"name": "robinhood",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "http://Ry-E.github.io/robinhood",
+	"homepage": "http://Ry-E.github.io/Robinhood",
 	"dependencies": {
 		"@material-ui/core": "^4.11.3",
 		"@material-ui/icons": "^4.11.2",
