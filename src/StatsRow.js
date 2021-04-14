@@ -26,7 +26,6 @@ function StatsRow(props) {
 						ticker: props.name,
 						shares: 1,
 					});
-					console.log('Not Available');
 				}
 			});
 	};
