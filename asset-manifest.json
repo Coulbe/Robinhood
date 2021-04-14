@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Robinhood/static/css/main.35ba5349.chunk.css",
+    "main.css": "/Robinhood/static/css/main.152a5f07.chunk.css",
     "main.js": "/Robinhood/static/js/main.89cee6a0.chunk.js",
     "main.js.map": "/Robinhood/static/js/main.89cee6a0.chunk.js.map",
     "runtime-main.js": "/Robinhood/static/js/runtime-main.2466aec2.js",
@@ -10,7 +10,7 @@
     "static/js/3.6dd0a42d.chunk.js": "/Robinhood/static/js/3.6dd0a42d.chunk.js",
     "static/js/3.6dd0a42d.chunk.js.map": "/Robinhood/static/js/3.6dd0a42d.chunk.js.map",
     "index.html": "/Robinhood/index.html",
-    "static/css/main.35ba5349.chunk.css.map": "/Robinhood/static/css/main.35ba5349.chunk.css.map",
+    "static/css/main.152a5f07.chunk.css.map": "/Robinhood/static/css/main.152a5f07.chunk.css.map",
     "static/js/2.213ff548.chunk.js.LICENSE.txt": "/Robinhood/static/js/2.213ff548.chunk.js.LICENSE.txt",
     "static/media/robinhood.d4c5626b.svg": "/Robinhood/static/media/robinhood.d4c5626b.svg",
     "static/media/search.b1f781b9.svg": "/Robinhood/static/media/search.b1f781b9.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.2466aec2.js",
     "static/js/2.213ff548.chunk.js",
-    "static/css/main.35ba5349.chunk.css",
+    "static/css/main.152a5f07.chunk.css",
     "static/js/main.89cee6a0.chunk.js"
   ]
 }
