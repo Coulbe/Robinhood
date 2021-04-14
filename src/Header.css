@@ -11,7 +11,7 @@
 }
 
 .header__logo:hover {
-	filter: brightness(0.4) sepia(1) hue-rotate(95deg) saturate(6);
+	filter: brightness(0.7) sepia(1) hue-rotate(95deg) saturate(6);
 }
 
 .header__search {
