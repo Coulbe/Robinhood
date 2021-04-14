@@ -24,8 +24,8 @@ function Newsfeed() {
 			<div className="newsfeed__container">
 				<div className="newsfeed__chartSection">
 					<div className="newsfeed__portfolio">
-						<h1>$420,000</h1>
-						<p>+69.00 (+4.20%) Today</p>
+						<h1>$120,000</h1>
+						<p>+79.00 (+4.30%) Today</p>
 					</div>
 					<div className="newsfeed__chart">
 						<LineGraph />
