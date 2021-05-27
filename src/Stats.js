@@ -4,7 +4,7 @@ import axios from 'axios';
 import StatsRow from './StatsRow';
 import { db } from './firebase';
 
-const TOKEN = 'c1maplq37fkpnsp57ofg';
+const TOKEN = 'c2nqrpaad3ie71thgidg';
 const BASE_URL = 'https://finnhub.io/api/v1/quote';
 
 function Stats() {
